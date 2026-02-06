@@ -1,0 +1,1 @@
+{"name":"Local: grader","url":"c:\\Coding\\GitHub\\Interactive\\2eggs\\grader.cpp","tests":[{"id":1719674416929,"input":"4 3 2","output":""},{"id":1719674866754,"input":"2 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Coding\\GitHub\\Interactive\\2eggs\\grader.cpp","group":"local","local":true}
